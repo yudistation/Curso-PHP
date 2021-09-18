@@ -1,2 +1,2 @@
 # Curso-PHP
-Curso de PHP [40 horas] por Gustavo Guanabara - Curso em Vídeo
+Curso de PHP da plataforma Curso em Vídeo apresentada pelo professor Gustavo Guanabara.
